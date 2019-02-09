@@ -5,10 +5,6 @@ using UnityEngine;
 public class TrainMovement : MonoBehaviour
 {
     public float Speed;
-    public Collider FL;
-    public Collider FR;
-    public Collider RL;
-    public Collider RR;
 
     // Update is called once per frame
     void Update()
