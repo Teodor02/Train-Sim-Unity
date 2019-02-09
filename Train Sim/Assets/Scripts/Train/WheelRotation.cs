@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class WheelRotation : MonoBehaviour {
 
-    public float Speed = 2;
+    public float Speed;
+
     // Update is called once per frame
     void Update()
     { 
